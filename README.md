@@ -168,7 +168,7 @@ if you doesn't finish the translation in ten days.
 - [x] blueprints [@frostming](https://github.com/frostming) Frost Ming
 - [ ] changes
 - [ ] cli
-- [ ] config
+- [ ] config [@mxy940127](https://github.com/mxy940127) mxy940127
 - [ ] contributing
 - [ ] debugging
 - [ ] design
